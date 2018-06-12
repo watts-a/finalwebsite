@@ -3,7 +3,7 @@
     "lang": "English",
     "name": "The Ultranatra Network",
     "scope": "/site/",
-    "display": "browser",
+    "display": "fullscreen",
     "start_url": "https://watts-a.github.io/site/",
     "short_name": "Ultranatra",
     "theme_color": "transparent",
